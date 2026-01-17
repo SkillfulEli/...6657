@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Dream Empire - Starter Guide</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .cover {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        .cover h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .cover p {
+            font-size: 1.2em;
+            font-weight: 300;
+        }
+        .author {
+            margin-top: 30px;
+            font-weight: bold;
+        }
+        section {
+            background: white;
+            padding: 40px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #1a2a6c;
+            border-bottom: 2px solid #fdbb2d;
+            padding-bottom: 10px;
+        }
+        .highlight-box {
+            background-color: #f0f4f8;
+            border-left: 5px solid #1a2a6c;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        ul li:last-child {
+            border-bottom: none;
+        }
+        .step {
+            font-weight: bold;
+            color: #b21f1f;
+        }
+        .cta {
+            text-align: center;
+            background: #1a2a6c;
+            color: white;
+            padding: 30px;
+            border-radius: 8px;
+        }
+        .cta a {
+            color: #fdbb2d;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="cover">
+        <h1>GLOBAL DREAM EMPIRE</h1>
+        <p>Starter Guide to Affiliate Marketing & Digital Income</p>
+        <div class="author">
+            By Elsa Qamar Alam<br>
+            Founder & CEO, Global Dream Empire
+        </div>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>Welcome to <strong>Global Dream Empire</strong> — a global digital community created to help individuals start their online earning journey from zero investment.</p>
+        <p>This guide is designed for beginners who want to learn how to earn online, build digital skills, and grow income streams regardless of location, background, or prior experience.</p>
+        <p>At Global Dream Empire, we believe that with the right system, mentorship, and consistency, anyone can build a sustainable online income and long-term freedom.</p>
+    </section>
+
+    <section>
+        <h2>Chapter 1: Our Mission</h2>
+        <p>Our mission is to empower individuals worldwide to build passive income streams through:</p>
+        <ul>
+            <li>✅ Affiliate marketing</li>
+            <li>✅ Digital marketing</li>
+            <li>✅ Network growth</li>
+        </ul>
+        <div class="highlight-box">
+            <p>We aim to create a strong community of independent earners and leaders who not only build their own digital empires but also help others rise along the way. This is more than earning money — it is about growth, leadership, and freedom.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Chapter 2: What We Do</h2>
+        <p>At Global Dream Empire, we help people start affiliate marketing for free and guide them step-by-step toward success. Inside the program, members learn how to:</p>
+        <ul>
+            <li>Create and manage affiliate accounts</li>
+            <li>Promote products using social media</li>
+            <li>Build a strong online presence</li>
+            <li>Reach global audiences</li>
+            <li>Develop a growing digital network</li>
+        </ul>
+        <p><em>No experience is required. Everything is explained in a clear and beginner-friendly way.</em></p>
+    </section>
+
+    <section>
+        <h2>Chapter 3: How You Earn</h2>
+        <p>When you join Global Dream Empire, the earning process follows a simple system:</p>
+        
+        <p><span class="step">1. Start Free:</span> You’ll register with trusted affiliate platforms such as Amazon, Temu, or ClickBank — with guidance provided.</p>
+        
+        <p><span class="step">2. Learn & Apply:</span> You receive free training materials that teach you how to promote products and earn commissions, even as a beginner.</p>
+        
+        <p><span class="step">3. Build a Team:</span> You invite others to join using your unique referral link. As your team grows, so does your earning potential.</p>
+        
+        <p><span class="step">4. Earn Passively:</span> When people in your network start earning commissions, you earn as well — even while you sleep.</p>
+    </section>
+
+    <section>
+        <h2>Chapter 4: Why Join Global Dream Empire?</h2>
+        <ul>
+            <li>✨ 100% Free to Start</li>
+            <li>✨ Global Earning Opportunities</li>
+            <li>✨ Step-by-Step Guidance</li>
+            <li>✨ Supportive Community</li>
+            <li>✨ Passive Income Potential</li>
+            <li>✨ Freedom to Work Anytime, Anywhere</li>
+        </ul>
+        <p>Global Dream Empire was built to help people create financial independence through real, accessible opportunities that work globally.</p>
+    </section>
+
+    <section>
+        <h2>Chapter 5: Our Vision</h2>
+        <p>Our vision is to build one of the strongest global digital networks — a community of independent earners and leaders who help others achieve the same freedom.</p>
+        <div class="highlight-box" style="text-align: center;">
+            <strong>"This is not just about income. It’s about creating a lifestyle of freedom, growth, and purpose."</strong>
+        </div>
+    </section>
+
+    <section class="cta">
+        <h2>Chapter 6: How to Get Started</h2>
+        <p>Getting started is simple:</p>
+        <p>1. Message us on Instagram: <strong>@elsaqamar.official</strong><br>
+        2. Receive your free affiliate marketing guide<br>
+        3. Learn the system step by step<br>
+        4. Start earning and inviting others</p>
+        <p><em>Every empire begins with one decision — and this could be yours.</em></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Global Dream Empire. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
